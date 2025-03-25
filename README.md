@@ -1,1 +1,1 @@
-# Реализвция система межпроцессного взаимодействия IPC (Inter-Process Communication)
+# Реализация система межпроцессного взаимодействия IPC (Inter-Process Communication)
